@@ -3,3 +3,9 @@ uploads/
 *.class
 injected_ws.txt
 .tmp/
+DGA_综合对比实验/artifacts_classical_1/bigram_probs.json
+DGA_综合对比实验/artifacts_classical_1/rf_model.joblib
+DGA_综合对比实验/artifacts_classical_1/xgb_model.joblib
+DGA_综合对比实验/artifacts_lstm_1/lstm_model.pt
+DGA_综合对比实验/artifacts_classical/
+DGA_综合对比实验/artifacts_lstm/
